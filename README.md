@@ -51,11 +51,11 @@ This project was developed collaboratively by three members:
   - UI design  
   - Responsiveness and layout handling  
 
-- **Avadhesh**  
+- **Avadhesh Nagar**  
   - Backend development  
   - Server-side logic  
 
-- **Dev**  
+- **Dev Joshi**  
   - Backend development  
   - API and request handling  
 
